@@ -1,3 +1,3 @@
 # Basic Technical Documentation Template
 
-## For FreeCodeCamp "Responsive Web Design Projects"
+### For FreeCodeCamp's "Responsive Web Design Projects"
